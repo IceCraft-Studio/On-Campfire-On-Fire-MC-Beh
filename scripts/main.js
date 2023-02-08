@@ -1,5 +1,5 @@
 import { system, world, BlockLocation } from '@minecraft/server';
-import { scheduledTicks } from './config/config';
+import { SCHEDULED_TICKS } from './config/config';
 const DIMENSION_LIST = ['minecraft:overworld','minecraft:nether','minecraft:the_end'];
 
 system.runSchedule(() => {
@@ -15,4 +15,4 @@ system.runSchedule(() => {
             } catch {}
         }
     }
-},scheduledTicks);
+},SCHEDULED_TICKS);

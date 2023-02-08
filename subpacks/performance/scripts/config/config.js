@@ -1,2 +1,2 @@
-const scheduledTicks = 20;
-export { scheduledTicks }
+const SCHEDULED_TICKS = 20;
+export { SCHEDULED_TICKS }
