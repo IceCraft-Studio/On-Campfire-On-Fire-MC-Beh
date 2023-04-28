@@ -9,8 +9,8 @@
         "description": "Campfires now set you and the entites on fire like they used to! §9Made by PavelDobCZ23",
         "name": "On Campfire - On Fire",
         "uuid": "03862db4-c4b9-42e1-b57b-daf391a5a05a",
-        "version": [ 1, 1, 0 ],
-        "min_engine_version": [ 1, 19, 70 ]
+        "version": [ 1, 2, 0 ],
+        "min_engine_version": [ 1, 19, 80 ]
     },
     "modules": [
         {
@@ -18,14 +18,14 @@
             "type": "script",
             "language": "javascript",
             "uuid": "514c9ddc-fd40-4189-9b10-bfc358089a33",
-            "version": [1, 1, 0],
+            "version": [1, 2, 0],
             "entry": "scripts/main.js"
         }
     ],
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.1.0-beta"
+			"version": "1.2.0-beta"
 		}
 	],
     "subpacks": [
