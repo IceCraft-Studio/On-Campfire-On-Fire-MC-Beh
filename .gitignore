@@ -1,4 +1,5 @@
-*.mcpack
-*.zip
-/*.zip
-/*.mcpack
+/exports
+/exports/*
+/scripts/
+/scripts/*
+mcproject.json
