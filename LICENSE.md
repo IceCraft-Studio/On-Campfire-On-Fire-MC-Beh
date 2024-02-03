@@ -1,22 +1,8 @@
-> **This source code is licensed under the terms of [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html) with [Commons Clause License Condition v1.0](https://commonsclause.com/).**
+> **This source code is licensed under the terms of [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html)**
 
-<br>
-
-## “Commons Clause” License Condition v1.0
-
-The Software is provided to you by the Licensor under the License, as defined below, subject to the following condition.
-
-Without limiting other conditions in the License, the grant of rights under the License will not include, and the License does not grant to you, the right to Sell the Software.
-
-For purposes of the foregoing, “Sell” means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/ support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software. Any license notice or attribution required by the License must also include this Commons Clause License Condition notice.
-
-- Software: On Campfire - On Fire \[MC-Beh\]
-
+- Software: "On Campfire - On Fire" -  MC:BE Behavior Pack
 - License: GNU General Public License v3
-
 - Licensor: IceCraft Studio
-
-<br>
 
 ## GNU General Public License v3
                           Preamble
@@ -686,3 +672,25 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+License Comment:
+```
+/*
+Insert Molang File [VSCode Extension] - Brings options to easily insert
+contents of a `.molang` file into a `.json` file for MC Bedrock add-ons.
+Copyright (C) 2023  PavelDobCZ23
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+```
