@@ -2,15 +2,15 @@
     "metadata": {
         "authors": ["PavelDobCZ23"],
         "license": "GNU GPL v3 + The Commons Clause",
-        "url": "https://www.icecraftstudio.repl.co"
+        "url": "https://icecraft.studio"
     },
     "format_version": 2,
     "header": {
-        "description": "Campfires now set you and the entites on fire like they used to! For MC - §l1.20.40§r §9Made by PavelDobCZ23",
+        "description": "Campfires now set you and the entites on fire like they used to! For MC - §l1.20.50§r §9Made by PavelDobCZ23",
         "name": "On Campfire - On Fire",
         "uuid": "03862db4-c4b9-42e1-b57b-daf391a5a05a",
-        "version": [ 1, 5, 0 ],
-        "min_engine_version": [ 1, 20, 40 ]
+        "version": [ 1, 6, 0 ],
+        "min_engine_version": [ 1, 20, 50 ]
     },
     "modules": [
         {
@@ -18,14 +18,14 @@
             "type": "script",
             "language": "javascript",
             "uuid": "514c9ddc-fd40-4189-9b10-bfc358089a33",
-            "version": [1, 5, 0],
+            "version": [1, 6, 0],
             "entry": "scripts/main.js"
         }
     ],
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.7.0-beta"
+			"version": "1.8.0-beta"
 		}
 	],
     "subpacks": [
